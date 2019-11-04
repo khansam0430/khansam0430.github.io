@@ -3,7 +3,7 @@ body {
   font-family: "Open+Sans"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
-  color: #000;
+  color: #000000;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -12,8 +12,8 @@ body {
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto700"; /* OPTIONAL: Google Fonts - title font */
-  font-weight: 300;
-  color: #333;
+  font-weight: 700;
+  color: #000;
 }
 
 /* Paragraph & Typographic */
@@ -97,7 +97,7 @@ a:after {
 
 .header h3 {
   font-size: 20px;
-  color: white;
+  color: #555;
 }
 
 .header h3 a {
