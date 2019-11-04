@@ -1,9 +1,9 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #555;
   font-family: "Open+Sans"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
-  color: #555;
+  color: #000;
 
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
@@ -101,7 +101,7 @@ a:after {
 }
 
 .header h3 a {
-  color: #fff;
+  color: #530083;
 }
 
 /* About Wrap */
@@ -118,7 +118,7 @@ a:after {
 
 .about i {
   color: white;
-  font-size: 20px;
+  font-size: 30px;
   padding-right: 8px;
   vertical-align: middle;
 }
